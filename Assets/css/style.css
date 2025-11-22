@@ -35,7 +35,7 @@ header a {
   color: inherit;
 }
 h1 {
-  font-family: "Oswald", sans-serif;
+  font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #252525;
@@ -96,6 +96,7 @@ footer {
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 }
+
 /* Header */
 nav {
   display: block;
